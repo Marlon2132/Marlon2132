@@ -8,9 +8,49 @@ I am a second-year student at **FAMCS**, majoring in **applied mathematics**.
 -----
 
 ### 📝 Skills
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 
+<!--
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <div style="margin-left:48px; margin-top:-36px;">
+    <strong>C++</strong><br/>
+    <span style="font-size:12px;color:#555;">OOP, basic libraries and tools. Also I have worked with different language standards and various test frameworks.</span>
+  </div>
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
+  <div style="margin-left:48px; margin-top:-36px;">
+    <strong>Java</strong><br/>
+    <span style="font-size:12px;color:#555;">OOP, basic libraries and tools</span>
+  </div>
+
+- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="40" alt="Lua" />
+  <div style="margin-left:48px; margin-top:-36px;">
+    <strong>Lua</strong><br/>
+    <span style="font-size:12px;color:#555;">When I first started programming, I developed bots for games using this language.</span>
+  </div>
+-->
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" />
+      <div style="font-weight:600;margin-top:6px;"><strong>C++</strong></div>
+      <div style="font-size:12px;margin-top:12px;max-width:160px;color:#555;">OOP, basic libraries and tools. Also I have worked with different language standards and various test frameworks.</div>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" alt="Java" />
+      <div style="font-weight:600;margin-top:6px;"><strong>Java</strong></div>
+      <div style="font-size:12px;margin-top:12px;max-width:160px;color:#555;">OOP, basic libraries and tools.</div>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="48" alt="Lua" />
+      <div style="font-weight:600;margin-top:6px;"><strong>Lua</strong></div>
+      <div style="font-size:12px;margin-top:12px;max-width:160px;color:#555;">When I first started programming, I developed bots for games using this language.</div>
+    </td>
+  </tr>
+</table>
+
+
+---
 
 
 <!--
