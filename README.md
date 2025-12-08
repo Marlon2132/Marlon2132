@@ -1,7 +1,11 @@
 ### Hello! I'm Stas! 👋
 
+-----
+
 ### 📚 Education
 I am a second-year student at **FAMCS**, majoring in **applied mathematics**.
+
+-----
 
 ### 📝 Skills
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
