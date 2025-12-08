@@ -61,10 +61,13 @@ I am a second-year student at **FAMCS**, majoring in **applied mathematics**.
   <a href="mailto:troffstas752@gmail.com" title="Email">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/google-icon.svg" width="48" alt="Email" />
   </a>
-  <a href="https://t.me/stassstr" title="Telegram" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/stassstr" title="Telegram">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/telegram.svg" width="48" alt="Telegram" />
   </a>
-  <a href="https://discordapp.com/users/507501851759869952" title="Discord" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/stassstr" title="Instagram">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="48" alt="Instagram" />
+  </a>
+  <a href="https://discordapp.com/users/507501851759869952" title="Discord">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/discord-icon.svg" width="48" alt="Discord" />
   </a>
 </div>
