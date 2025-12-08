@@ -1,13 +1,17 @@
-### Hello! I'm Stas! 👋
+# Hello! I'm Stas! 👋
+
+## 🙋‍♂️ About me
+
+I'm 19 years old. I play the guitar. I've been dancing professionally for 9 years and have won numerous awards. I started programming in the 5th grade of school.
 
 -----
 
-### 📚 Education
+## 📚 Education
 I am a second-year student at **FAMCS**, majoring in **applied mathematics**.
 
 -----
 
-### 📝 Skills
+## 📝 Skills
 
 <!--
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
@@ -49,9 +53,21 @@ I am a second-year student at **FAMCS**, majoring in **applied mathematics**.
   </tr>
 </table>
 
+-----
 
----
+## 📞 Contacts
 
+<div style="display:flex; justify-content:center; gap:12px; align-items:center;">
+  <a href="mailto:troffstas752@gmail.com" title="Email">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/google-icon.svg" width="48" alt="Email" />
+  </a>
+  <a href="https://t.me/stassstr" title="Telegram" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/telegram.svg" width="48" alt="Telegram" />
+  </a>
+  <a href="https://discordapp.com/users/507501851759869952" title="Discord" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/discord-icon.svg" width="48" alt="Discord" />
+  </a>
+</div>
 
 <!--
 **Marlon2132/Marlon2132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
